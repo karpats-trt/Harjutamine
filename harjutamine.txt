@@ -1,2 +1,3 @@
 Github on veebiplatform, kus saab hallata ja jagada erinevaid projekte. Peamiselt kasutatakse seda versioonihalduseks ja projektide organiseerimiseks.
 Githubi kasutavad peamiselt tarkvaraarendajad, kuid ka õppetöös osalejad, erinevad ettevõtted ja avatud lähtekoodi kogukonnad.
+Mina saan edaspidi Githubi kasutada kas õppes või töös oma koodi ühes kohas hoidmiseks (hetkel nt skriptimisaluste tunnis).
